@@ -17,11 +17,14 @@ With a heart as hot as the sun, never forget the spirit of adventure, never be a
 ![logo](https://github.com/cruise-group/.github/blob/main/profile/GRUISE-GROUP-logo_200x200.png)
 
 
-
 ### Twitter Community 🐥
 
 - Let's go out to the ocean.
 - [cruise-group](https://twitter.com/i/communities/1498584754915999744)
+
+### Members blog
+
+- [CRUISE GROUP Blog](https://cruise-group.hashnode.dev/)
 
 
 ### Live Chat
