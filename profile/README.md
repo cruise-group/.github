@@ -3,24 +3,20 @@
 # Hi ![top](https://github.com/cruise-group/.github/blob/main/profile/handshake.gif)
 
 
-# Grand Vision
 With a heart as hot as the sun, never forget the spirit of adventure, never be afraid to take risks, and sail the oceans to reach Cosmo!
 
 
-## Vision
-
-
-## Mission
-
-
 ## Logo
+
 ![logo](https://github.com/cruise-group/.github/blob/main/profile/GRUISE-GROUP-logo_200x200.png)
 
-
+<!--
 ### Twitter Community 🐥
 
 - Let's go out to the ocean.
 - [cruise-group](https://twitter.com/i/communities/1498584754915999744)
+
+-->
 
 ### Linkedin
 
@@ -32,5 +28,6 @@ With a heart as hot as the sun, never forget the spirit of adventure, never be a
 
 
 ### Live Chat
+
 - [Join here](https://spatial.chat/app/team/05kVl7yDtVia1oO0EBuw)
 
