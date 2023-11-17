@@ -7,7 +7,7 @@ With a heart as hot as the sun, never forget the spirit of adventure, never be a
 
 
 ## Logo
-![Alt text](https://github.com/cruise-group/.github/blob/main/prpfile/cruise-group-top-quality-low.jpg)
+![!img](https://github.com/cruise-group/.github/blob/main/prpfile/cruise-group-top-quality-low.jpg)
 
 <!--
 ### Twitter Community 🐥
